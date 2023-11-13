@@ -39,6 +39,11 @@
       "owner": "scrimba",
       "repo": "scrim-folder-block",
       "id": "*"
+    },
+    {
+      "owner": "startup-cto",
+      "repo": "technical-debt-block",
+      "id": "*"
     }
   ]
 }
