@@ -44,6 +44,11 @@
       "owner": "startup-cto",
       "repo": "technical-debt-block",
       "id": "*"
+    },
+    {
+      "owner": "ignatandrei",
+      "repo": "VisualAPI_GithubNextBlocks",
+      "id": "*"
     }
   ]
 }
