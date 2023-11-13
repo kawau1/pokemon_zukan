@@ -9,6 +9,11 @@
       "owner": "githubnext",
       "repo": "emoji-block",
       "id": "*"
+    },
+    {
+      "owner": "Wattenberger",
+      "repo": "blocks",
+      "id": "*"
     }
   ]
 }
