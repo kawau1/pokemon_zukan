@@ -4,6 +4,11 @@
       "owner": "githubnext",
       "repo": "blocks-examples",
       "id": "*"
+    },
+    {
+      "owner": "githubnext",
+      "repo": "emoji-block",
+      "id": "*"
     }
   ]
 }
