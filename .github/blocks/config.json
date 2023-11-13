@@ -24,6 +24,11 @@
       "owner": "githubnext",
       "repo": "history-blocks",
       "id": "*"
+    },
+    {
+      "owner": "scrimba",
+      "repo": "github-block",
+      "id": "*"
     }
   ]
 }
