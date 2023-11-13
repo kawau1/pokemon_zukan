@@ -29,6 +29,11 @@
       "owner": "scrimba",
       "repo": "github-block",
       "id": "*"
+    },
+    {
+      "owner": "mattrothenberg",
+      "repo": "directory-size-block",
+      "id": "*"
     }
   ]
 }
