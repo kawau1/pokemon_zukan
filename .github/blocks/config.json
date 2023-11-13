@@ -19,6 +19,11 @@
       "owner": "githubnext",
       "repo": "preview-block",
       "id": "*"
+    },
+    {
+      "owner": "githubnext",
+      "repo": "history-blocks",
+      "id": "*"
     }
   ]
 }
