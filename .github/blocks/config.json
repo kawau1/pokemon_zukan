@@ -34,6 +34,11 @@
       "owner": "mattrothenberg",
       "repo": "directory-size-block",
       "id": "*"
+    },
+    {
+      "owner": "scrimba",
+      "repo": "scrim-folder-block",
+      "id": "*"
     }
   ]
 }
