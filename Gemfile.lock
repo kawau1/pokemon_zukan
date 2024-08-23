@@ -177,7 +177,7 @@ GEM
     regexp_parser (2.8.0)
     reline (0.3.4)
       io-console (~> 0.5)
-    rexml (3.3.3)
+    rexml (3.3.6)
       strscan
     ruby-vips (2.1.4)
       ffi (~> 1.12)
